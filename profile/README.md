@@ -6,5 +6,5 @@ OpenSNN 开源社区是以类脑芯片和类脑人工智能算法及其应用为
 
 # 欢迎沟通交流
 
-![image](https://www.opensnn.com/api/s/file/view/img/4964971880517632)
-![image](https://www.opensnn.com/api/s/file/view/img/34425685477036032)
+![image](https://w3.opensnn.com/api/s/file/view/img/4964971880517632)
+![image](https://w3.opensnn.com/api/s/file/view/img/34425685477036032)
